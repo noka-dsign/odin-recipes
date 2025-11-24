@@ -1,0 +1,1 @@
+This is my first HTML project for The Odin Project, here I think I'll apply stuff like texts, lists, links and images, besides of practicing how to use git and github.
